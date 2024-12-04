@@ -13,7 +13,7 @@ You are working with a database containing an `EMPLOYEES` table, which includes 
 
 ### Task:
 1. Create a regular index on the `FIRST_NAME` column of the `EMPLOYEES` table.
-2. Write a query to search for employees with the first name `John`.
+2. Write a query to search for employees with the first name of your choice.
 3. Run an `EXPLAIN PLAN` before and after creating the index to compare query performance.
 
 ---
